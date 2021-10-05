@@ -1,7 +1,12 @@
 # Baseline code
+
 ## Requirements and Installation
+
 python3
 
-pytorch>=1.0
+pytorch>=1.9.1
 
-```python3 pip3 install -r requirements.txt```
+
+```shell
+pip3 install -r requirements.txt
+```
