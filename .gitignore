@@ -5,3 +5,4 @@ data/valid/*
 
 # ignore models
 code/models/*
+!code/models/utils.py
