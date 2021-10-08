@@ -1,0 +1,8 @@
+# ignore datasets
+data/train
+data/test
+data/valid
+
+# ignore models
+code/models
+
