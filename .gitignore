@@ -1,8 +1,7 @@
 # ignore datasets
-train/
-test/
-valid/
+data/train/*
+data/test/*
+data/valid/*
 
 # ignore models
-models/
-
+code/models/*
